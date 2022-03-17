@@ -107,5 +107,9 @@
   ### Legacy Skills
   ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlnfNcsAPD15iiQzZHldfeti1Iyl4zr62GpQjuiS4e6gLi7kt9-sjJdbEVaZuknxxyBs&usqp" height="40" alt="Firebird">  
-    
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlnfNcsAPD15iiQzZHldfeti1Iyl4zr62GpQjuiS4e6gLi7kt9-sjJdbEVaZuknxxyBs&usqp" height="40" alt="Firebird">      
+
+#
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rodolfopatane&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfopatane&theme=blue-green)
