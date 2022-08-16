@@ -1,6 +1,6 @@
   # Hi there 👋
 
-  ##### - 🐝 Currently working and enjoyng at [Sambatech](https://sambatech.com.br) as Backend Developer. Node.js is my Home and Typescript my Language.
+  ##### - 🐝 Currently working and enjoyng as Backend Developer. Node.js is my Home and Typescript my Language.
   ##### - 🌱 For love and improve skills i am currently learning Blockchain's, EVM, Solidity and Web3.js.
   ##### - 🐜 Two decades of bug debugging
   ##### - 😡 Hating Windows since version 3.11
